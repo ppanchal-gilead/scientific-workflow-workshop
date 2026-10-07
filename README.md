@@ -6,7 +6,7 @@ This synthetic repository supports two workshops:
 
 1. **GitHub Foundations for Scientific Work**
 2. **GitHub Copilot for Data Scientists — VS Code Agent mode**
-
+*******************************************************************************
 The example follows a small adverse-event summary through requirements, code, tests, and human-controlled pull requests. Foundations uses GitHub.com; the advanced lab uses GitHub Copilot **Agent mode in VS Code** to plan and edit a local checkout. Copilot pull-request code review is optional where enabled, with human review always required.
 
 This is an independent teaching repository. It is not affiliated with, sponsored by, or approved by any company, research sponsor, healthcare organization, or regulatory body.
