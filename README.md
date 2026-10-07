@@ -4,6 +4,8 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 This synthetic repository supports two workshops:
 
+Prajakta has updated this to test the branch
+
 1. **GitHub Foundations for Scientific Work**
 2. **GitHub Copilot for Data Scientists — VS Code Agent mode**
 
